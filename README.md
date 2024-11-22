@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello you  👋
 
 <h1 align="center">Hi 👋, I'm KISHORE PRASATH</h1>
 <h3 align="center">A passionate FULL STACK developer</h3>
